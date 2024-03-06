@@ -222,7 +222,7 @@
     }
   }
   body {
-    background-color: #f7d9da;
+    background-color: #0ce73b;
   }
   
   .envlope-wrapper {
@@ -239,9 +239,9 @@
     transition: all 0.1s linear;
     -webkit-appearance: none;
     background-color: transparent;
-    border: solid 2px #ff5757;
+    border: solid 2px #0ce73b;
     border-radius: 4px;
-    color: #ff5757;
+    color: #0ce73b;
     display: inline-block;
     font-size: 14px;
     text-transform: uppercase;
